@@ -18,11 +18,13 @@
     "drizzle-orm": "^0.41.0",
     "express": "^4.21.2",
     "express-session": "^1.18.1",
+    "express-validator": "^7.2.1",
     "jsonwebtoken": "^9.0.2",
     "passport": "^0.7.0",
     "passport-google-oauth20": "^2.0.0",
     "pg": "^8.14.1",
-    "tsconfig-paths": "^4.2.0"
+    "tsconfig-paths": "^4.2.0",
+    "wretch": "^2.11.0"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",

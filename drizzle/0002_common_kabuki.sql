@@ -1,0 +1,1 @@
+ALTER TABLE "users" ADD COLUMN "auth_method" varchar(255) NOT NULL;
